@@ -78,5 +78,30 @@ var states = {
     name: "Georgia",
     visited: "2017-10-25",
     description: "Visited Savannah"
+  },
+  CA:{
+    name: "California",
+    visited: "2019-6-01",
+    description: "Went to SF, 17 Mile Drive and Napa Valley"
+  },
+  WA: {
+    name: "Washington",
+    visited: "2019-10-18",
+    description: "Visited Leavenworth and Seattle"
+  },
+  NV: {
+    name: "Nevada",
+    visited: "2019-11-25",
+    description: "Visited Las Vegas"
+  },
+  AZ: {
+    name: "Arizona",
+    visited: "2019-11-26",
+    description: "Saw the Antelope Canyons"
+  },
+  UT: {
+    name: "Utah",
+    visited: "2019-12-26",
+    description: "Saw Zion National Park"
   }
 }
