@@ -30,7 +30,7 @@ var states = {
     description: "Visited Sanchi @ Pittsburgh in 2018 "
 	},
   KY: {
-    name: "Tennessee",
+    name: "Kentucky",
     lived: "2018-05-20",
     description: "Internship at Humana"
   },
