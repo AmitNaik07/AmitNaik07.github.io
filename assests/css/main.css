@@ -1246,6 +1246,7 @@ input, select, textarea {
 		padding: 4rem 2rem;
 		z-index: 3;
 		overflow: hidden;
+		-webkit-scrollbar:none;
 	}
 
 		#wrapper:before {
