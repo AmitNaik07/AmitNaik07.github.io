@@ -209,6 +209,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
+		overlfow: hidden;
 	}
 
 	a {
